@@ -1,13 +1,13 @@
-# Hi, there
-I'm Pranshu, a B.Tech Mechanical Engg. student at MANIT BHOPAL.
+# Hi, there!
+I'm Pranshu, a B.Tech Mechanical Engineering student at MANIT BHOPAL.
 
 ## About Me
 - passionate about AI, ML, Robotics and Electronics.
 - Practicing python and Machine Learning
+- Target hackathons is what I love.
 
 
 ## Skills
-## 🛠️ Skills
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
