@@ -1,5 +1,6 @@
 # Hi, there!
 I'm Pranshu, a B.Tech Mechanical Engineering student at MANIT BHOPAL.
+I will graduate in the year 2028.
 
 ## About Me
 - passionate about AI, ML, Robotics and Electronics.
